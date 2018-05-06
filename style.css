@@ -1,0 +1,58 @@
+.author {
+  border: 1px solid;
+  margin-bottom: 20px;
+}
+.author .avatar {
+  padding-top: 15px;
+}
+.author .social {
+  margin-top: 15px;
+}
+.author .author-name .verified {
+  color: #66c2ff;
+}
+.author .see-more {
+  margin-top: 15px;
+}
+.author .intro {
+  margin-top: 15px;
+}
+.author .intro .real-name {
+  font-weight: bold;
+}
+.author .book {
+  margin-top: 15px;
+}
+.author .book-picture {
+  width: 80px;
+  height: 120px;
+}
+
+.filter {
+  border: 1px solid;
+  position: relative;
+  height: 250px;
+}
+.filter .filter-button {
+  position: absolute;
+  top: -22px;
+  right: 103px;
+}
+.filter .religion-filter {
+  margin-top: 30px;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.filter .religion-filter .religion-checkbox {
+  border: 1px solid;
+  padding: 10px;
+}
+.filter .rating {
+  font-weight: bold;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
